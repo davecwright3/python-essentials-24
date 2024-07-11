@@ -4,3 +4,6 @@
 [submodule "packaging"]
 	path = packaging
 	url = https://github.com/davecwright3/packaging-workshop.git
+[submodule "jax"]
+	path = jax
+	url = https://github.com/davecwright3/jax-tutorial.git
