@@ -1,0 +1,21 @@
+name: jupyter-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - nb_conda_kernels
+  - jupyterlab
+  - jupyterlab_vim
+  - jupyterlab-lsp
+  - python-lsp-server
+  - jupyterlab-git
+  - dask-labextension
+  - jupyter-resource-usage
+  - jupyterlab-spellchecker
+  - jupytext
+  - matplotlib
+  - python-graphviz
+  - ipycytoscape
+  - pip:
+      - jupyterlab-quarto
+      - nbdime

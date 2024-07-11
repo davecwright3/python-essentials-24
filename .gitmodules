@@ -1,0 +1,6 @@
+[submodule "dask"]
+	path = dask
+	url = https://github.com/davecwright3/ucf-dask-tutorial.git
+[submodule "packaging"]
+	path = packaging
+	url = https://github.com/davecwright3/packaging-workshop.git
